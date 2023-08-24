@@ -15,5 +15,6 @@ public class Main {
     int b = 2;
     float xxx = 22.3f;
     double c = 22f;
+    System.out.println("Hi");
     
 }
