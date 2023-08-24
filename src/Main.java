@@ -10,7 +10,8 @@
  */
 public class Main {
 
-    int a =1;
+    int a =1000;
+    int c2 = 222;
     int b = 2;
     double c = 22f;
 }
