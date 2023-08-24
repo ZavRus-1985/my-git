@@ -10,7 +10,9 @@
  */
 public class Main {
 
+    int aa =1000;
     int a =1000;
+    int cc = 222;
     int c2 = 222;
     int b = 2;
     float xxx = 22.3f;
